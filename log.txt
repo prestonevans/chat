@@ -1,0 +1,9 @@
+Guest2 says: sup
+Guest1 says: hi
+Guest2 left the chat
+Guest3 joined the server
+Guest3 says: hi
+Guest1 says: no
+Guest3 says: okay
+Guest1 left the chat
+Guest4 joined the server
